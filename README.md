@@ -52,3 +52,6 @@ much slower compared to an in memory solution.
 Unfortunately, the system is useless if the delivery mechanism doesn't work. 
 Both ways of verifying the system are needed.
 
+There is a shell script that will run both steps in sequence, `build.sh`.
+
+This example uses Cucumber-JVM. Cucumber-JVM requires Java 8.
